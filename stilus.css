@@ -1,0 +1,184 @@
+html{
+    background-color: rgba(206, 206, 206)
+}
+
+body{
+    border-radius: 5px;
+}
+header{
+    border: solid black 2px;
+    text-align: center;
+    font-size: 2em;
+    font-family: cursive;
+    background-color: rgba(215, 113, 82);
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+nav{
+    border:solid black 2px;
+    height:400px;
+    width:220px;
+    background-color: rgba(187, 177, 18);
+    border-radius: 5px;
+    position: absolute;
+    margin-left: 200px;
+}
+#english_flag{
+    width:60px;
+    height:40px;
+    float:left;
+    padding-left:15px;
+    padding-top: 5px;
+}
+#hungary_flag{
+    width:60px;
+    height: 40px;
+    float: right;
+    padding-right:15px;
+    padding-top: 5px;
+}
+.zászlók{
+    margin-bottom: 10px;
+}
+.linkek{
+    padding: 30px;
+    text-align: center;
+    font-size: 30px;
+}
+a:link{
+    color: cyan;
+    text-decoration: none;
+}
+a:visited{
+    color: lightgreen;
+    text-decoration: none;
+}
+a:hover{
+    color:gold;
+    text-decoration: none;
+}
+a:active{
+    color:lightgreen;
+    text-decoration: none;
+}
+.első_szöveg{
+    border:solid black 2px;
+    margin-left: 422px;
+    width:1200px;
+    font-size: 20px;
+    color:rgba(187, 177, 18);
+    position:relative;
+    background-color:rgba(241, 243, 222);
+    font-family: cursive;
+    border-radius: 10px;
+    padding:10px;
+}
+b{
+    font-size: 15px;
+}
+#cat_hug{
+    width:340px;
+    height:490px;
+    border-radius: 10px;
+    float:left;
+    padding-right:10px;
+}
+#unordered_list{
+    color:lightgreen;
+    list-style:none;
+}
+#cica_tabla{
+    width:300px;
+    height:500px;
+}
+.cica_kepek{
+    float:left;
+    width:280px;
+    height:280px;
+    padding:10px;
+    border-radius: 20px;
+}
+.masodik_szoveg{
+    border:solid black 2px;
+    margin-left: 422px;
+    width:1200px;
+    font-size: 23px;
+    color:rgba(187, 177, 18);
+    position:relative;
+    background-color:rgba(241, 243, 222);
+    font-family: cursive;
+    border-radius: 10px;
+    padding:10px;
+}
+#macska_kor{
+    font-size: 15px;
+}
+.elso_box{
+    float:left;
+    width:250px;
+    height:250px;
+    margin-left: 50px;
+}
+.masodik_box{
+    position:relative;
+}
+.középre{
+    text-align:center;
+}
+#megjegyzés{
+    font-size: 13px;
+}
+.harmadik_szöveg{
+    border:solid black 2px;
+    margin-left: 422px;
+    width:1200px;
+    font-size: 20px;
+    color:rgba(187, 177, 18);
+    position:relative;
+    background-color:rgba(241, 243, 222);
+    font-family: cursive;
+    border-radius: 10px;
+    padding:10px;
+}
+#etel_sorolas{
+    font-size:18px;
+    list-style: none;
+}
+#harmadik_box{
+    margin-left: 30px;
+}
+#ápolás_felsorolás{
+    font-size:16px;
+    list-style: none;
+}
+#elhelyezs{
+    margin-right: 30px;
+}
+.negyedik_szoveg{
+    border:solid black 2px;
+    margin-left: 422px;
+    width:1200px;
+    font-size: 18px;
+    color:rgba(187, 177, 18);
+    position:relative;
+    background-color:rgba(241, 243, 222);
+    font-family: cursive;
+    border-radius: 10px;
+    padding:20px;
+}
+#balra{
+    text-align:left;
+}
+.vegszo{
+    border:solid black 2px;
+    margin-left: 422px;
+    width:1200px;
+    font-size: 22px;
+    color:rgba(187, 177, 18);
+    position:relative;
+    background-color:rgba(241, 243, 222);
+    font-family: cursive;
+    border-radius: 10px;
+    padding:20px;
+}
